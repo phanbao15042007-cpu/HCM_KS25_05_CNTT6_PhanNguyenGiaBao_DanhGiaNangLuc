@@ -1,0 +1,127 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="JfD1itTi_XvR-jam-5f6">
+    <mxGraphModel dx="905" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2TWtxrrsH04xaTXazXhs-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="250" as="sourcePoint" />
+            <mxPoint x="370" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="team_id" vertex="1">
+          <mxGeometry height="30" width="90" x="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="team_name" vertex="1">
+          <mxGeometry height="30" width="90" x="70" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="team_national" vertex="1">
+          <mxGeometry height="30" width="90" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="team_owner" vertex="1">
+          <mxGeometry height="30" width="90" x="70" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="team_founded" vertex="1">
+          <mxGeometry height="30" width="90" x="70" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="N">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="250" as="sourcePoint" />
+            <mxPoint x="510" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="280" as="sourcePoint" />
+            <mxPoint x="570" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="player_id" vertex="1">
+          <mxGeometry height="30" width="90" x="515" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="player_name" vertex="1">
+          <mxGeometry height="30" width="90" x="620" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="player_NickName" vertex="1">
+          <mxGeometry height="30" width="100" x="640" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="player_position" vertex="1">
+          <mxGeometry height="30" width="90" x="620" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="playe_salary" vertex="1">
+          <mxGeometry height="30" width="90" x="515" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="team_id fk" vertex="1">
+          <mxGeometry height="30" width="90" x="650" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-28" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="N">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="430" as="sourcePoint" />
+            <mxPoint x="570" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-32" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="N">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="550.0000000000002" as="sourcePoint" />
+            <mxPoint x="410" y="550.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-34" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="N">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="550.0000000000002" as="sourcePoint" />
+            <mxPoint x="270" y="550.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="MStatistic_id" vertex="1">
+          <mxGeometry height="30" width="90" x="650" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="MStatistic_kills" vertex="1">
+          <mxGeometry height="30" width="90" x="651" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="MStatistic_deaths" vertex="1">
+          <mxGeometry height="30" width="100" x="650" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="MStatistic_assists" vertex="1">
+          <mxGeometry height="30" width="105" x="651" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="player_id fk" vertex="1">
+          <mxGeometry height="30" width="100" x="520" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="match_id fk" vertex="1">
+          <mxGeometry height="30" width="100" x="530" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="match_id" vertex="1">
+          <mxGeometry height="30" width="100" x="150" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="match_date" vertex="1">
+          <mxGeometry height="30" width="100" x="40" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="2TWtxrrsH04xaTXazXhs-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;;shape=ellipse" value="match_result" vertex="1">
+          <mxGeometry height="30" width="100" x="150" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="XdHhGVkh9IR1f9oauI3S-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Team" vertex="1">
+          <mxGeometry height="60" width="120" x="185" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="XdHhGVkh9IR1f9oauI3S-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Has" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="XdHhGVkh9IR1f9oauI3S-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Player" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="XdHhGVkh9IR1f9oauI3S-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Has" vertex="1">
+          <mxGeometry height="80" width="80" x="530" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="XdHhGVkh9IR1f9oauI3S-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Match_Statistic" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XdHhGVkh9IR1f9oauI3S-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Has" vertex="1">
+          <mxGeometry height="80" width="80" x="330" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="XdHhGVkh9IR1f9oauI3S-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
